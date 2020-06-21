@@ -20,7 +20,7 @@ Contributors are who are interested in one or more projects of hwpplayers hacker
 
 Committers are both experienced or mid-level programmers or content creators for art or documentation and have the right to add information to the code base/repository.
 
-## Core Team in hwpplayers hackathon
+## Core Team in hwpplayers
 
 hwpplayers core team is responsible from maintaining all of the organization repositories, giving support to community members.And also have permission to delete content from the organization repository.
 
