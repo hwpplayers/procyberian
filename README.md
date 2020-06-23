@@ -1,16 +1,18 @@
 # procyberian
 
+![procyberian](/images/procyberian.png)
+
 [procyberian](https://hwpplayers.github.io/procyberian.html) hackathon is a project backed by [Masscollabs Services](https://www.masscollabs.com) within the [hwpplayers](https://hwpplayers.github.io) hackerspace.
 
-# Our Goal 
+# Our Goal
 
 We want to welcome newcomers who are interested in programming, hardware and science. We fork projects to look at the information but not to copy it's source code, documentation and artwork
 
 ## Types of memberships
 
-* Contributors in the community
-* Committers in the community
-* Core Team in hwpplayers
+- Contributors in the community
+- Committers in the community
+- Core Team in hwpplayers
 
 ## Contributors in the community
 
@@ -32,16 +34,21 @@ hwpplayers prefers prefers AGPLv3 or later and GPLv3 or later licenses for it’
 
 A program is free software if the program's users have the four essential freedoms:
 
-* The freedom to run the program as you wish, for any purpose (freedom 0).
-* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
-* The freedom to redistribute copies so you can help others (freedom 2).
-* The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
 ## Core Values of hwpplayers
 
-* freedom of speech
-* openness
-* collaborative working
-* privacy of community members
+- freedom of speech
+- openness
+- collaborative working
+- privacy of community members
 
 Inspired by [Masscollabs Services](https://github.com/masscollabs/masscollabs) which is licensed under the terms of GFDLv1.3 or later.
+
+- This document will be updated by getting feedback. For your requests please send email to :
+  1. core at masscollabs dot com
+  2. security at masscollabs dot com
+  3. support at masscollabs dot com
