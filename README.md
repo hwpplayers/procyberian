@@ -1,6 +1,6 @@
 # procyberian
 
-procyberian hackathon is a project backed by Masscollabs Services within the hwpplayers hackerspace.
+procyberian hackathon is a project backed by [Masscollabs Services](https://github.com/masscollabs/masscollabs) within the [hwpplayers](https://github.com/hwpplayers) hackerspace.
 
 # Our Goal 
 
