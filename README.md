@@ -4,7 +4,7 @@ procyberian hackathon is a project backed by Masscollabs Services within the hwp
 
 # Our Goal 
 
-We want to welcome newcomers who are interested in programming, hardware and science
+We want to welcome newcomers who are interested in programming, hardware and science. We fork projects to look at the information but not to copy it's source code, documenation and artwork
 
 ## Types of memberships
 
