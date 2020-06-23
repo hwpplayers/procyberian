@@ -42,6 +42,6 @@ A program is free software if the program's users have the four essential freedo
 * freedom of speech
 * openness
 * collaborative working
-* privacy of community members and customers
+* privacy of community members
 
 Inspired by [Masscollabs Services](https://github.com/masscollabs/masscollabs) which is licensed under the terms of GFDLv1.3 or later.
